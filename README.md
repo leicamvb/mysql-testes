@@ -20,6 +20,13 @@ Aulas voltadas para mysql
 * Heidisql
 
 
+## Comando de testes
+
+
+SELECT name FROM product WHERE product_id = 1;
+SELECT name FROM category WHERE name LIKE '%ni%';
+SELECT name FROM product WHERE product_id IN (1,2,3);
+ALTER TABLE product MODIFY amount  float(10,7);
 
 
 ## 🖇️ Colaborando

@@ -17,6 +17,8 @@ Aulas voltadas para mysql
 * Mysql
 * PHPMyadmin
 * Laragon
+* Heidisql
+
 
 
 
